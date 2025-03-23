@@ -7,7 +7,8 @@
 
 ## 📌 Project Overview
 
-This project was developed as part of an academic course and focuses on analyzing a comprehensive **healthcare dataset** through the lens of business intelligence. We designed a **star schema-based data warehouse**, implemented ETL pipelines, and performed data analysis and visual exploration using Power BI and SQL Server to uncover insights into hospital operations, patient demographics, treatment outcomes, and financial performance.
+This academic project analyzes a **1M-record** healthcare dataset using Power BI and SQL Server. We built a star schema warehouse, developed ETL pipelines, and explored key insights. KPIs tracked include patient distribution, doctor performance, billing trends, and treatment success rates.
+These insights help optimize operations, improve care quality, and refine healthcare strategies.
 
 ---
 

@@ -1,6 +1,6 @@
 # 🏥 Healthcare Analytics Dashboard Project
 
-![Dashboard Preview](./screenshots/Dashboard 1.png)
+![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%201.png)
 
 > A Business Intelligence project leveraging a star schema data warehouse and powerful visualizations to provide healthcare administrators, clinicians, and insurance providers with actionable insights into patient profiles, billing trends, and resource planning.
 

@@ -11,12 +11,12 @@ This project was developed as part of an academic course and focuses on analyzin
 
 ---
 
-## 🧩 Key Components
+##  Key Components
 
 ### 1. Data Warehouse Design using **Microsoft Visio**
 - **Star Schema** model
-  - 🧮 **Fact Table**: `HospitalEncounterFact`
-  - 🧩 **Dimension Tables**: `Patient`, `Hospital`, `Insurance Provider`
+  - **Fact Table**: `HospitalEncounterFact`
+  - **Dimension Tables**: `Patient`, `Hospital`, `Insurance Provider`
 - **Grain**: One row per patient encounter
 
 ### 2. ETL Workflow
@@ -30,7 +30,12 @@ This project was developed as part of an academic course and focuses on analyzin
 
 ### 3. Data Analysis & Visualization
 - Tools: **Power BI**, **SQL Server**, **BigQuery**
-- Sample insights:
+- 📊 Power BI Features Included
+      - Hierarchical drill-downs for multi-level data exploration
+      - Interactive slicers by gender, age, hospital, and condition
+      - Custom KPIs built using DAX expressions
+      - Cross-filtering across visuals for dynamic insights
+      - Dual-axis and tree map visualizations for trend and category analysis
   
 
 ### 4. Predictive Modeling

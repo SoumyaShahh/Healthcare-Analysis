@@ -46,10 +46,9 @@ This project was developed as part of an academic course and focuses on analyzin
 
 Key Performance Indicators:
   - Top-performing doctors by recovery rate: ![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%202.png)
-  - Cost of treatment per doctor
-  - Patient load by city & condition
-  - Financial contributions by insurance providers
-  - Billing patterns over time
+  - Cost of treatment per doctor:  ![Dashboard Preview]()
+  - Financial contributions by insurance providers: ![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%205.png)
+  - Billing patterns over time: ![Dashboard Preview]()
 
 ---
 

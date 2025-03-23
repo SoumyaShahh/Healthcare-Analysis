@@ -8,13 +8,13 @@
 
 ## 📌 Project Overview
 
-This project was developed as part of MIS 587 and focuses on analyzing a comprehensive **healthcare dataset** through the lens of business intelligence. We designed a **star schema-based data warehouse**, implemented ETL pipelines, and performed data analysis and visual exploration using Power BI and SQL Server to uncover insights into hospital operations, patient demographics, treatment outcomes, and financial performance.
+This project was developed as part of an academic course and focuses on analyzing a comprehensive **healthcare dataset** through the lens of business intelligence. We designed a **star schema-based data warehouse**, implemented ETL pipelines, and performed data analysis and visual exploration using Power BI and SQL Server to uncover insights into hospital operations, patient demographics, treatment outcomes, and financial performance.
 
 ---
 
 ## 🧩 Key Components
 
-### 1. Data Warehouse Design
+### 1. Data Warehouse Design using **Microsoft Visio**
 - **Star Schema** model
   - 🧮 **Fact Table**: `HospitalEncounterFact`
   - 🧩 **Dimension Tables**: `Patient`, `Hospital`, `Insurance Provider`
@@ -32,11 +32,7 @@ This project was developed as part of MIS 587 and focuses on analyzing a compreh
 ### 3. Data Analysis & Visualization
 - Tools: **Power BI**, **SQL Server**, **BigQuery**
 - Sample insights:
-  - Top-performing doctors by recovery rate
-  - Cost of treatment per doctor
-  - Patient load by city & condition
-  - Financial contributions by insurance providers
-  - Billing patterns over time
+  
 
 ### 4. Predictive Modeling
 - Model predicted:
@@ -48,9 +44,12 @@ This project was developed as part of MIS 587 and focuses on analyzing a compreh
 
 ## 📊 Dashboard Highlights
 
-| Patient Distribution by Condition | Doctor Performance vs Cost |
-|----------------------------------|-----------------------------|
-| ![Condition](./screenshots/condition-distribution.png) | ![Doctors](./screenshots/doctor-performance.png) |
+Key Performance Indicators:
+  - Top-performing doctors by recovery rate: ![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%202.png)
+  - Cost of treatment per doctor
+  - Patient load by city & condition
+  - Financial contributions by insurance providers
+  - Billing patterns over time
 
 ---
 

@@ -30,7 +30,7 @@ This project was developed as part of an academic course and focuses on analyzin
 
 ### 3. Data Analysis & Visualization
 - Tools: **Power BI**, **SQL Server**, **BigQuery**
-- 📊 Power BI Features Included
+- 📊 Power BI Features Included:
       - Hierarchical drill-downs for multi-level data exploration
       - Interactive slicers by gender, age, hospital, and condition
       - Custom KPIs built using DAX expressions

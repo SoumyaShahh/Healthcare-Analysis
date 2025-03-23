@@ -29,7 +29,7 @@ This project was developed as part of an academic course and focuses on analyzin
   - One-hot Encoding
 
 ### 3. Data Analysis & Visualization
-- Tools: **Power BI**, **SQL Server**, **BigQuery**
+- Tools: **Power BI**, **SQL Server**, **Excel**
 ### 📊 Power BI Features Included
 
 - **Hierarchical drill-downs** for multi-level data exploration  
@@ -38,8 +38,6 @@ This project was developed as part of an academic course and focuses on analyzin
 - **Cross-filtering** across visuals for dynamic insights  
 - **Dual-axis** and **tree map** visualizations for trend and category analysis  
 
-
-  
 
 ### 4. Predictive Modeling
 - Model predicted:

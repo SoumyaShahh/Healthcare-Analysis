@@ -1,6 +1,5 @@
 # 🏥 Healthcare Analytics Dashboard Project
 
-![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%201.png)
 
 > A Business Intelligence project leveraging a star schema data warehouse and powerful visualizations to provide healthcare administrators, clinicians, and insurance providers with actionable insights into patient profiles, billing trends, and resource planning.
 
@@ -45,16 +44,25 @@ This project was developed as part of an academic course and focuses on analyzin
 ## 📊 Dashboard Highlights
 
 Key Performance Indicators:
-  - Top-performing doctors by recovery rate:
+  - Patient Overview by Condition & City:
+    
+    ![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%201.png)
+    
+  - Doctor Performance & Cost Insights:
+    
     ![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%202.png)
-  - Cost of treatment per doctor:
-    ![Dashboard Preview]()
-  - Financial contributions by insurance providers:
+    
+  - Patient Journey Breakdown:
+    
+    ![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%203.png)
+    
+  - Billing and Admission Trends:
+    
+    ![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%204.png)
+    
+  - Insurance & Payment Analytics:
+    
     ![Dashboard Preview](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/Dashboard%205.png)
-  - Billing patterns over time:
-    ![Dashboard Preview]()
-  - Cost of treatment per doctor:
-    ![Dashboard Preview]()
 
 ---
 

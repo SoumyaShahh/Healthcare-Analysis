@@ -21,6 +21,9 @@ These insights help optimize operations, improve care quality, and refine health
 - **Grain**: One row per patient encounter
 
 ### 2. ETL Workflow
+
+![ETL Workflow]()
+
 - Built using **SSIS** (SQL Server Integration Services)
 - Source: Excel Dataset → Destination: SQL Server Data Warehouse
 - Included:

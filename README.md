@@ -22,7 +22,7 @@ These insights help optimize operations, improve care quality, and refine health
 
 ### 2. ETL Workflow
 
-![ETL Workflow]()
+![ETL Workflow](https://github.com/SoumyaShahh/Healthcare-Analysis/blob/main/screenshots/etl.png)
 
 - Built using **SSIS** (SQL Server Integration Services)
 - Source: Excel Dataset → Destination: SQL Server Data Warehouse

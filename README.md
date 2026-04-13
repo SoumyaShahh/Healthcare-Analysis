@@ -132,14 +132,14 @@ Load → SQL Server Data Warehouse
 ## 📊 Power BI Dashboards
 
 ### Dashboard 1 — Doctor Performance & Cost Analysis
-![Dashboard 2](screenshots/Dashboard%201.png)
+![Dashboard 1](screenshots/Dashboard%202.png)
 
 Ranks doctors by **patient recovery ratio** and analyzes cost-efficiency per physician — enables identification of top performers and informs resource allocation decisions.
 
 ---
 
-### Dashboard 1 — Patient Distribution by City & Condition
-![Dashboard 2](screenshots/Dashboard%202.png)
+### Dashboard 2 — Patient Distribution by City & Condition
+![Dashboard 2](screenshots/Dashboard%201.png)
 
 Geographic heatmap of patient load across US cities with breakdown by medical condition and age range — identifies regional health trends and infrastructure needs.
 
